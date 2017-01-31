@@ -1,9 +1,12 @@
 body {
   background-color: black;
   text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 img {
+  max-width: 100%;
   position: relative;
   top: 50vh;
   -webkit-transform: translateY(-50%);
