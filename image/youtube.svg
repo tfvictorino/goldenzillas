@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>youtube</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="youtube">
+            <circle id="Oval-2-Copy" fill="#000000" cx="100" cy="100" r="100"></circle>
+            <path d="M132.156898,61 L67.8462427,61 C55.2285996,61 45,71.2494911 45,83.8929053 L45,116.107095 C45,128.750509 55.2285996,139 67.8462427,139 L132.156898,139 C144.774542,139 155.003141,128.750509 155.003141,116.107095 L155.003141,83.8929053 C155.003141,71.2494911 144.774542,61 132.156898,61 Z M116.706144,101.567336 L86.6259573,115.943068 C85.8244394,116.326115 84.8986016,115.740546 84.8986016,114.850835 L84.8986016,85.2008117 C84.8986016,84.298428 85.8487785,83.7135763 86.6519667,84.1214901 L116.732153,99.3957807 C117.626493,99.8498418 117.610983,101.135033 116.706144,101.567336 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
