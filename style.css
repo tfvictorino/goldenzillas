@@ -12,9 +12,15 @@ strong {
 }
 
 p {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.75em;
 }
+
+  @media screen and (min-width: 600px) {
+    p {
+      font-size: 18px;
+    }
+  }
 
 p + p {
   margin-top: 30px;
@@ -26,9 +32,9 @@ img, iframe {
 }
 
 .container {
-  max-width: 840px;
+  max-width: 880px;
   margin: 0 auto;
-  padding: 0 40px;
+  padding: 0 30px;
 }
 
 
@@ -36,9 +42,15 @@ img, iframe {
 
 /* Header */
 header {
-  padding: 100px 0 60px;
+  padding: 80px 0 30px;
   position: relative;
 }
+
+  @media screen and (min-width: 600px) {
+    header {
+      padding: 100px 0 60px;
+    }
+  }
 
 header::before {
   content: "";
@@ -65,20 +77,48 @@ header::after {
 
 /* Videos */
 .videos {
-  margin-top: 80px;
+  margin-top: 40px;
 }
+
+  @media screen and (min-width: 600px) {
+    .videos {
+      margin-top: 80px;
+    }
+  }
+
+iframe {
+  width: 320px;
+  height: 200px;
+}
+
+  @media screen and (min-width: 600px) {
+    iframe {
+      width:  680px;
+      height: 400px;
+    }
+  }
+
+iframe + iframe {
+  margin-top: 20px;
+}
+
 
 
 
 /* Contact */
 .contact {
-  margin-top: 80px;
+  margin-top: 50px;
 }
+
+  @media screen and (min-width: 600px) {
+    .contact {
+      margin-top: 80px;
+    }
+  }
 
 .email {
   color: #98e433;
 }
-
 
 .social-media {
   list-style: none;
