@@ -116,9 +116,14 @@ iframe + iframe {
     }
   }
 
-.email {
+.link {
+  display: block;
   color: #98e433;
 }
+
+  .link:last-of-type {
+    margin-top: 6px;
+  }
 
 .social-media {
   list-style: none;
